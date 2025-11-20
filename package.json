@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "store-frontends",
   "private": true,
   "scripts": {
     "build": "turbo run build",
