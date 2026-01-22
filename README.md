@@ -38,13 +38,12 @@ src/
 ```
 
 ### 📦 Monorepo
-
+```text
 apps/
 └── ... # Aplicação Next.js
 packages/
 ├── ui # Componentes visuais reutilizáveis
 └── app-shell # Provider global
-
 ````
 
 > Os packages podem ser reutilizados em outros MFEs sem acoplamento ao domínio.
