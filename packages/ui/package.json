@@ -3,7 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-    "./*": "./src/*.tsx"
+    "./*": "./src/*.tsx",
+    "./theme": "./src/theme/index.ts",
+    "./Snackbar": "./src/Snackbar/index.ts",
+    "./Header": "./src/Header/index.ts",
+    "./Menu": "./src/Menu/index.ts",
+    "./Loading": "./src/Loading/index.ts"
   },
   "scripts": {
     "lint": "eslint . --max-warnings 0",

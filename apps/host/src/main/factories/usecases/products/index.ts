@@ -1,0 +1,5 @@
+export * from './getProductsFactory'
+export * from './getProductFactory'
+export * from './putProductFactory'
+export * from './deleteProductFactory'
+export * from './postProductFactory'
